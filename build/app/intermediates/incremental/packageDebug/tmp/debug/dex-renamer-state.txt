@@ -1,0 +1,4 @@
+#Fri Mar 24 18:19:22 IST 2023
+base.0=/Users/ttn/Documents/FlutterWrkSpace/MyLearning/ThemeAndStyle/theme_and_style/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
